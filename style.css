@@ -143,6 +143,7 @@
       width: 50%;
       height: 100%;
       padding: 2em;
+      margin-top: 60%;
     }
 
     .Textbox h2 {
@@ -788,6 +789,8 @@
       }
       .review-section .Textbox {
         height: auto;
+        margin: 0;
+        
       }
       .reviewpara {
         letter-spacing: 0rem;

@@ -5,18 +5,18 @@
       padding: 0;
       box-sizing: border-box;
     }
-
+    
     html {
       font-size: 62.5%;
     }
-
+    
     body {
       font-family: 'Montserrat', sans-serif;
       background-color: rgba(235, 235, 255, 1)
     }
-
+    
     /*---------Header background-----------*/
-
+    
     .header {
       background-image: linear-gradient(to bottom left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('img/header2.jpeg');
       background-repeat: no-repeat;
@@ -693,10 +693,11 @@
       border-radius: 2em;
       background: rgba(235, 235, 255, 1);
       font-size: 1.6rem;
-      padding: 0.2em 1em;
+      padding: 0.4em 1.5em;
       letter-spacing: 0.5rem;
       border: 0.2rem solid crimson;
       text-transform: uppercase;
+      
     }
 
     .secondarybtn:hover {

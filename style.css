@@ -713,7 +713,7 @@
 
     /*---------Media Query-----------*/
 
-    @media screen and (max-width:450px) {
+    @media screen and (max-width:500px) {
       html {
         font-size: 50%;
       }
